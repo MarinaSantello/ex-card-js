@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+main {
+    display: flex;
+    gap: 24px;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: rgba(255, 0, 55, 0.15);
+    border: solid 3px rgba(255, 0, 55);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    list-style: none;
+    border-radius: 10px;
+    gap: 10px;
+    padding: 20px;
+}
