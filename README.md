@@ -1,1 +1,1 @@
-# ex-card-js
+# ex-cards
